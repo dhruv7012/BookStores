@@ -1,7 +1,6 @@
 import express from "express";
 import { PORT } from "./config.js";
 
-// const PORT = 4000;
 
 const app = express();
 
